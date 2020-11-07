@@ -1,0 +1,79 @@
+body {
+  background: black;
+}
+#notes h4 {
+  text-align: left;
+  color: #e34033;
+  font-family: Trebuchet MS;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+#notes {
+  color: skyblue;
+  font-family: Courier New;
+}
+#main {
+  position: relative;
+  top: 25vh;
+}
+#Clear {
+  color: white;
+  background: transparent;
+  border: 2px solid red;
+  border-radius: 5px;
+  margin-right: 5px;
+  font-size: 16px;
+}
+#save {
+  color: white;
+  background: transparent;
+  border: 2px solid skyblue;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+#reset {
+  color: white;
+  background: transparent;
+  border: 2px solid #743fff;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+#text {
+  color: white;
+  background: transparent;
+  height: 100px;
+  width: 350px;
+  border: 2px solid #00ff9d;
+  border-radius: 5px;
+}
+#text2 {
+  border-radius: 15px;
+  color: white;
+  background: transparent;
+  border: 2px solid #0085ff;
+  height: 25px;
+  width: 300px;
+  text-align: center;
+  font-family: Monospace;
+}
+#span_val {
+  position: relative;
+  left: 2.5px;
+  top: 30px;
+  display: inline-block;
+  border: 2px solid #00ccff;
+  text-align: center;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+#span_val p {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+#span_val button {
+  color: white;
+  background: transparent;
+  border: 2px solid #f02e2e;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
